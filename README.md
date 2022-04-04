@@ -17,3 +17,10 @@ We will be using  Al Sweigart's [Automate the Boring Stuff](https://automatetheb
 ## Session 2 - Chapter 2 Control Flow (April 27, 2022 at Happy Dog in Cleveland)
 [Notes on Chapter 2](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch1-2.md)
 
+
+## Session 3 - Chapter 3 Functions (May 11, 2022 at Happy Dog in Cleveland)
+[Notes on Chapter 3](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch3-4.md)
+
+
+## Session 4 - Chapter 4 Lists (May 25, 2022 at Happy Dog in Cleveland)
+[Notes on Chapter 4](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch3-4.md)
