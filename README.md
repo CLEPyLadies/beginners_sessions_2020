@@ -24,3 +24,16 @@ We will be using  Al Sweigart's [Automate the Boring Stuff](https://automatetheb
 
 ## Session 4 - Chapter 4 Lists (May 25, 2022 at Happy Dog in Cleveland)
 [Notes on Chapter 4](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch3-4.md)
+
+
+## Session 5 - Chapter 5 Dictionaries and Data Structuring (June 8, 2022 at Happy Dog in Cleveland)
+[Notes on Chapter 5](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch5-6.md)
+
+
+
+## Session 6 - Chapter 6 Manipulating Strings (June 22, 2022 at Happy Dog in Cleveland)
+[Notes on Chapter 6](https://github.com/CLEPyLadies/book-club/blob/a3c9d9e6d8ceebdcec7133836b1e99cab3c5ceb7/Automate-the-Boring-Stuff/ch5-6.md)
+
+
+
+
